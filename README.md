@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development technologies
 - 🌱 I’m currently learning web backend technologies
 - 💞️ I’m looking to collaborate on social projects
-- 📫 How to reach me -> 9dipmewada40@gmail.com
+- 📫 How to reach me -> dipmewada40@gmail.com
 
 <!---
 deepakmewada/deepakmewada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
